@@ -1,0 +1,7 @@
+submission,private_auc,public_auc
+v2 Ensemble (rank-avg B2+DenseNet121),0.9679,0.9722
+v2 EfficientNetB2,0.9624,0.9728
+v2 DenseNet121,0.9634,0.9645
+v1 Ensemble (Baseline+B0),0.9678,0.9666
+v1 EfficientNetB0,0.9581,0.9663
+v1 Baseline CNN,0.9610,0.9572
